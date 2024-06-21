@@ -8,7 +8,7 @@ author_profile: true
 
 ## Bio
 
-I am a PhD student (2020-2025) in the Department of Computer Science, Beihang University, advised by Prof. [Zhoujun Li](https://scholar.google.com/citations?user=e-4LoEcAAAAJ&hl=zh-CN&oi=ao) and Prof. [Dong Xu](https://scholar.google.com/citations?user=7Hdu5k4AAAAJ&hl=zh-CN&oi=ao).
+I am a PhD student (2020-2025) in the Department of Computer Science, Beihang University now, advised by Prof. [Zhoujun Li](https://scholar.google.com/citations?user=e-4LoEcAAAAJ&hl=zh-CN&oi=ao) and Prof. [Dong Xu](https://scholar.google.com/citations?user=7Hdu5k4AAAAJ&hl=zh-CN&oi=ao).
 My research interests include Large Langugae Model, Multimodal-learning and AIOps.
 
 Throughout my undergraduate education, I acquired fundamental research skills under the guidance of Prof. [Jin Xie](https://scholar.google.com/citations?hl=zh-CN&user=Q7QqJPEAAAAJ) within the team led by Prof. [Jian Yang](https://scholar.google.com/citations?hl=zh-CN&user=6CIDtZQAAAAJ). 
