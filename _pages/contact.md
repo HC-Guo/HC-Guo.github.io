@@ -16,12 +16,7 @@ UK
 
 
 ### Email
-[firstname].[lastname]16 [at] imperial.ac.uk
+hongchengguo [at] buaa.edu.cn
 
-### Address
-Office 617 \
-Huxley Building \
-180 Queen's Gate, South Kensington \
-London SW7 2AZ \
-UK
+
 
