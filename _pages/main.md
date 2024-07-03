@@ -11,23 +11,35 @@ redirect_from:
 Hi there! My name is Hongcheng Guo (or you can call me Hugo). I am a PhD student (2020-2025) in the Department of Computer Science, Beihang University now, advised by Prof. [Zhoujun Li](https://scholar.google.com/citations?user=e-4LoEcAAAAJ&hl=zh-CN&oi=ao) and Prof. [Dong Xu](https://scholar.google.com/citations?user=7Hdu5k4AAAAJ&hl=zh-CN&oi=ao).
 My research interests include Large Langugae Model, Multimodal-learning and AIOps. 
 
+Recently, I am preparing for the ICLR 2025. 
+
 <!-- Specifically, I am exploring the applications of Kernelized Stein Discrepancy to address challenges in computational statistics, including areas such as distribution testing, particle-based inference and parameter estimation. -->
 
 
 ## News
-- [12/2023] From 17th to 21st, I will attend the 2023 IMS International Conference on Statistics and Data Science (ICSDS) in Lisbon, where I will give a contributed talk on our COLT paper [A High-dimensional Convergence Theorem for U-statistics with Applications to Kernel-based Testing](https://proceedings.mlr.press/v195/huang23a.html).
 
-- [10/2023] For this academic year, I will be visiting the [Fundamentals of Statistical Machine Learning](https://fsml-ucl.github.io/) research group, co-led by Dr [François-Xavier Briol](https://fxbriol.github.io/) and Dr [Jeremias Knoblauch](https://jeremiasknoblauch.github.io/). Looking forward to an engaging experience with the amazing researchers in the group!
+- [06/2024] Invited as a reviewer for EMNLP 2024 and CIKM 2024.
 
-- [10/2023] Starting from October 2023, I will become an [Enrichment Student](https://www.turing.ac.uk/work-turing/studentships/enrichment) at the [Alan Turing Institute](https://www.turing.ac.uk/), where I will join the Turing's research community for six months to broaden my research. Please do not hesitate to reach out if you are interested in collaboration!
+- [05/2024] Two papers [Rolellm: Benchmarking, eliciting, and enhancing role-playing abilities of large language models](https://arxiv.org/pdf/2310.00746), [Unicoder: Scaling code large language model via universal code](https://arxiv.org/abs/2406.16441) have been accepted by ACL 2024!
 
-- [05/2023] Our paper [A High-dimensional Convergence Theorem for U-statistics with Applications to Kernel-based Testing](https://proceedings.mlr.press/v195/huang23a.html) has been accepted by COLT 2023.
+- [03/2024] Invited as a reviewer for Neurips 2024.
 
-- [04/2023] Our paper [Using Perturbation to Improve Goodness-of-Fit Tests based on Kernelized Stein Discrepancy](https://arxiv.org/abs/2304.14762) has been accepted by ICML 2023.
+- [03/2024] Our paper [LTA-PCS: Learnable Task-Agnostic Point Cloud Sampling](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_LTA-PCS_Learnable_Task-Agnostic_Point_Cloud_Sampling_CVPR_2024_paper.pdf) has been accepted by CVPR 2024!
 
-- [09/2022] I finished my internship at [Meta](https://research.facebook.com/), where I worked on multi-task active learning methods for e-commerce.
+- [03/2024] Invited as a reviewer for ACL 2024.
 
-- [01/2022] Our paper [Grassmann Stein Variational Gradient Descent](https://proceedings.mlr.press/v151/liu22a.html) has been accepted by AISTATS 2022.
+- [03/2024] Our paper [m3P: Towards Multimodal Multilingual Translation with Multimodal Prompt](https://arxiv.org/pdf/2403.17556) has been accepted by COLING 2024!
+
+- [02/2024] Our paper [LogFormer: A Pre-train and Tuning Pipeline for Log Anomaly Detection](https://ojs.aaai.org/index.php/AAAI/article/view/27764) has been accepted by AAAI 2024!
+
+
+- [01/2024] Our paper for facilitating LLMs in IT Ops [OWL: A large language model for IT operations](https://openreview.net/pdf?id=SZOQ9RKYJu) has been accepted by ICLR 2024!
+
+- [10/2023] One paper [Griprank: Bridging the gap between retrieval and generation via the generative knowledge improved passage ranking](https://dl.acm.org/doi/abs/10.1145/3583780.3614901) has been accepted by CIKM 2023!
+
+- [06/2023] One paper [M2C: Towards Automatic Multimodal Manga Complement](https://arxiv.org/pdf/2310.17130) has been accepted by Findings of EMNLP 2023!
+
+
 
 <!-- ## Contact
 ### Email
